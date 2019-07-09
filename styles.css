@@ -5179,3 +5179,15 @@ body {
     padding-bottom: 0px;
     border: none
 }
+
+.emoji--woman-detective-medium-dark-skin-tone {
+    background-image: url('assets/emojis/1f575-1f3fe-2640.png');
+    display: inline-block;
+    text-indent: -9999px;
+    height: 1em;
+    width: 1em;
+    content: '';
+    background-size: 100% auto;
+    position: relative;
+    background-repeat: no-repeat;
+}
